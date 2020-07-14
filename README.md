@@ -3,7 +3,7 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-BotTempo é um bot desenvolvido em python que responde com qual a previsão do tempo no twitter.
+BotTempo é um bot desenvolvido em python que responde qual a previsão do tempo no dia de hoje.
 
 
 ### Instalação
@@ -16,3 +16,4 @@ pip install -r requeriments
 ```
 
 **Não esqueça de usar suas próprias chaves API**
+*siga no twitter: @nowtempo*
