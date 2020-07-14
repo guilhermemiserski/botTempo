@@ -16,4 +16,5 @@ pip install -r requeriments
 ```
 
 **Não esqueça de usar suas próprias chaves API**
+
 *siga no twitter: @nowtempo*
