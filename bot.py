@@ -30,6 +30,5 @@ while 1:
                 time.sleep(60)
         except tweepy.TweepError as e:
                 print(e.reason)
-                time.sleep(180)
         except StopIteration:
                 break
