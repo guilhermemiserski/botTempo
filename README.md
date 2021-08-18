@@ -10,7 +10,7 @@ Instale as dependências e de deploy no [Heroku](https://dashboard.heroku.com/)!
 
 ```sh
 cd bottempo
-pip install -r requeriments
+pip install -r requirements.txt
 ```
 
 **Não esqueça de usar suas próprias chaves API**
