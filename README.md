@@ -15,4 +15,4 @@ pip install -r requirements.txt
 
 **Não esqueça de usar suas próprias chaves API**
 
-*siga no twitter: @nowtempo*
+*siga no twitter: @g7miserski*
